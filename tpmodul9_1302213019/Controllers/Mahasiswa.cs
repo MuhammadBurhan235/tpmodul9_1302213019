@@ -8,7 +8,7 @@ namespace tpmodul9_1302213019.Controllers
     {
         public static List<Mahasiswa1> DataMahasiswa = new List<Mahasiswa1>
         {
-            new Mahasiswa1 ("Z", "1302213178"),
+            new Mahasiswa1 ("Zhafira Nur Ahdiya", "1302213178"),
             new Mahasiswa1 ("Salasabillah","130221389"),
             new Mahasiswa1 ("Salma", "1302213007"),
             new Mahasiswa1 ("Salwa", "1302210094"),
